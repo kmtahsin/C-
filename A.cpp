@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"Enter two integers : \n";
     int a,b;
     cin>>a>>b;
 
